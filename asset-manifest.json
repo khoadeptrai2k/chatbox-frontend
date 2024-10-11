@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c92e30e.css",
-    "main.js": "/static/js/main.6958a3f9.js",
-    "static/js/453.db32656b.chunk.js": "/static/js/453.db32656b.chunk.js",
-    "index.html": "/index.html",
-    "main.2c92e30e.css.map": "/static/css/main.2c92e30e.css.map",
-    "main.6958a3f9.js.map": "/static/js/main.6958a3f9.js.map",
-    "453.db32656b.chunk.js.map": "/static/js/453.db32656b.chunk.js.map"
+    "main.css": "/chatbox-frontend/static/css/main.2c92e30e.css",
+    "main.js": "/chatbox-frontend/static/js/main.bc93ddbe.js",
+    "static/js/453.4aa4b76d.chunk.js": "/chatbox-frontend/static/js/453.4aa4b76d.chunk.js",
+    "index.html": "/chatbox-frontend/index.html",
+    "main.2c92e30e.css.map": "/chatbox-frontend/static/css/main.2c92e30e.css.map",
+    "main.bc93ddbe.js.map": "/chatbox-frontend/static/js/main.bc93ddbe.js.map",
+    "453.4aa4b76d.chunk.js.map": "/chatbox-frontend/static/js/453.4aa4b76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c92e30e.css",
-    "static/js/main.6958a3f9.js"
+    "static/js/main.bc93ddbe.js"
   ]
 }
